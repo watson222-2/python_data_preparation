@@ -4,6 +4,7 @@ scipy
 numpy
 pandas
 seaborn
+geopandas
 matplotlib
 prettytable
 scikit-learn
