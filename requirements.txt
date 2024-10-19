@@ -2,10 +2,12 @@ nltk
 spacy
 scipy
 numpy
+Pillow
 pandas
 seaborn
 geopandas
 matplotlib
+pytesseract
 prettytable
 scikit-learn
 opencv-python-headless
