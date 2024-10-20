@@ -4,6 +4,7 @@ spacy
 scipy
 numpy
 Pillow
+google
 pandas
 seaborn
 openpyxl
